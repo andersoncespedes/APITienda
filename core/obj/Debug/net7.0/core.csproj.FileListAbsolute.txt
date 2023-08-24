@@ -1,0 +1,12 @@
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/obj/Debug/net7.0/core.csproj.AssemblyReference.cache
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/obj/Debug/net7.0/core.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/obj/Debug/net7.0/core.AssemblyInfoInputs.cache
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/obj/Debug/net7.0/core.AssemblyInfo.cs
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/obj/Debug/net7.0/core.csproj.CoreCompileInputs.cache
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/bin/Debug/net7.0/core.deps.json
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/bin/Debug/net7.0/core.dll
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/bin/Debug/net7.0/core.pdb
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/obj/Debug/net7.0/core.dll
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/obj/Debug/net7.0/refint/core.dll
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/obj/Debug/net7.0/core.pdb
+/home/apolT01-052/Desktop/documentosNetCore/tienda/core/obj/Debug/net7.0/ref/core.dll
